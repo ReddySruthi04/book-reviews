@@ -30,319 +30,104 @@
       "address": "123 Main Street, Cityville, State, Country"
     },
     "reviews": [
+      {
+        "book": {
+          "title": "Percy Jackson The Series",
+          "author": "Rick Riordan",
+          "coverImage": "https://media.karousell.com/media/photos/products/2020/7/9/rick_riordon_percy_jackson_ser_1594272498_ff0c6840_progressive.jpg",
+          "publishDate": "July 1, 2005 - May 5, 2009"
+        },
+        "review": {
+          "introduction": {
+            "overview": "The Percy Jackson and the Olympians series, written by Rick Riordan, is a young adult fantasy series.",
+            "authorBackground": "The story is set in a modern setting, skillfully combined with Greek mythology, making it very captivating",
+            "test": "It features a relatable protagonist, Percy Jackson, suitable for various ages. His flaws and humor make him a likable hero and help us connect with Percy on a personal level. The story includes strong supporting characters with unique backgrounds, personalities, and abilities. It emphasizes a strong theme of friendship and loyalty, coupled with humor and wit.",
+            "test2": "Riordan seamlessly weaves Greek mythology into the modern world, leaving us in contemplation of 'what if.' The series has a powerful finale, delivering a satisfying and impactful conclusion that provides readers with closure. It also leaves room for future stories in the same universe.",
+            "others": "9/10 on a recommendation scale ❤️"
+          }
+        }
+      },
         {
           "book": {
-            "title": "The Catcher in the Rye",
-            "author": "J.D. Salinger",
-            "coverImage": "https://cdn.britannica.com/94/181394-050-2F76F7EE/Reproduction-cover-edition-The-Catcher-in-the.jpg",
-            "publishDate": "July 16, 1951"
+            "title": "The Lightning Thief",
+            "author": "Rick Riordan",
+            "coverImage": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/7/16/1437060510740/a96a6625-20ef-4c88-a8e7-7bb073e4d15b-1378x2040.jpeg?width=700&quality=85&auto=format&fit=max&s=405bc1b8c8f9a337062546d307279cff",
+            "publishDate": " (Percy Jackson and the Olympians #1) July 1, 2005"
           },
           "review": {
             "introduction": {
-              "overview": "A timeless classic that explores the angst of adolescence.",
-              "authorBackground": "J.D. Salinger, known for his reclusive nature, brings a unique perspective rooted in his own experiences."
-            },
-            "plotSummary": {
-              "synopsis": "The novel follows Holden Caulfield, a disenchanted teenager expelled from boarding school, as he navigates the challenges of growing up in post-war America.",
-              "keyPoints": [
-                "Holden's quest for authenticity",
-                "Encounters with various characters",
-                "Themes of alienation and societal expectations"
-              ]
-            },
-            "characters": {
-              "profiles": [
-                {
-                  "name": "Holden Caulfield",
-                  "description": "The disillusioned protagonist struggling with the phoniness of the adult world."
-                }
-              ],
-              "development": "Characters evolve in response to Holden's journey, each contributing to the overarching themes."
-            },
-            "writingStyle": {
-              "style": "Salinger's writing is conversational, reflecting Holden's voice. He employs colloquial language and explores the use of symbolism.",
-              "literaryDevices": [
-                "Symbolism in the red hunting hat",
-                "Motifs of innocence and loss"
-              ]
-            },
-            "themes": {
-              "exploredThemes": [
-                "The loss of innocence",
-                "The search for authenticity",
-                "The phoniness of society"
-              ],
-              "symbolismAndMotifs": "The red hunting hat as a symbol of individuality and protection."
-            },
-            "setting": {
-              "timeAndPlace": "Set in the 1950s, primarily in New York City, the novel captures the post-war atmosphere and urban landscape.",
-              "atmosphereAndWorldBuilding": "Salinger creates a vivid world through Holden's observations, emphasizing the alienation in a bustling city."
-            },
-            "pacing": {
-              "narrativeFlow": "The narrative flows with Holden's stream of consciousness, capturing the erratic nature of his thoughts.",
-              "balance": "Balances introspective moments with dynamic encounters to maintain reader engagement."
-            },
-            "structure": {
-              "chapterOrganization": "Organized as Holden's recollections, with a fluid structure that mirrors his mental state.",
-              "narrativeStructure": "Incorporates flashbacks and a linear timeline, offering a multifaceted perspective."
-            },
-            "dialogue": {
-              "evaluation": "Dialogues feel authentic, showcasing characters' distinct voices and contributing to the overall atmosphere.",
-              "realismAndVoice": "The dialogues contribute to character development and reinforce the realism of the narrative."
-            },
-            "plotTwistsAndTurns": {
-              "unpredictability": "The story is unpredictable, with twists that challenge conventional expectations.",
-              "impact": "Plot twists contribute to character growth and the overall impact of the narrative."
-            },
-            "originality": {
-              "uniqueAspects": "Salinger's exploration of teenage angst and societal criticism adds a unique layer to the narrative.",
-              "freshPerspectives": "The novel offers fresh perspectives on identity, authenticity, and the challenges of adolescence."
-            },
-            "emotionalImpact": {
-              "connectionToCharacters": "Readers connect emotionally with Holden's journey, experiencing the highs and lows of adolescence.",
-              "emotionalResonance": "The novel resonates emotionally, leaving a lasting impact on readers."
-            },
-            "overallImpression": {
-              "personalOpinion": "An impactful and thought-provoking novel that resonates with readers of all ages.",
-              "starRating": 4.5,
-              "recommendation": "Highly recommended for those seeking a profound exploration of the human experience."
-            },
-            "comparisonToOtherWorks": {
-              "similarBooksOrAuthors": [
-                "The Bell Jar by Sylvia Plath",
-                "The Great Gatsby by F. Scott Fitzgerald"
-              ],
-              "contrastsAndComparisons": "While similar to other coming-of-age classics, The Catcher in the Rye stands out for its raw portrayal of teenage disillusionment."
-            },
-            "targetAudience": {
-              "whoMightEnjoy": "Ideal for readers interested in coming-of-age stories, existential themes, and societal critique.",
-              "suitableAgeGroupsOrInterests": "Recommended for young adults and older readers who appreciate introspective narratives."
-            },
-            "criticisms": {
-              "constructiveFeedback": "Some readers may find the narrative introspective nature challenging, and the open-ended conclusion may leave certain questions unanswered.",
-              "areasForImprovement": "A more explicit resolution to certain plot points could enhance reader satisfaction."
-            },
-            "favoriteQuotes": {
-              "noteworthyLines": [
-                "“Don't ever tell anybody anything. If you do, you start missing everybody.”",
-                "“I'm sick of just liking people. I wish to God I could meet somebody I could respect.”"
-              ],
-              "memorableQuotes": "The novel is filled with poignant quotes that capture the essence of Holden's perspective."
-            },
-            "conclusion": {
-              "summary": "The Catcher in the Rye is a timeless exploration of teenage angst, societal criticism, and the search for authenticity.",
-              "finalThoughts": "A must-read for those who appreciate profound narratives that leave a lasting impact."
+              "overview": "In the first book of the Percy Jackson series, we are introduced to the protagonist Percy, a 12-year-old boy with dyslexia. Attending a school for special kids, he finds himself unable to find a sense of normality. Percy discovers himself as Demigod, the son of Poseidon, the Greek god of mythology. He is accused of stealing the lightning bolt from Lord Zeus. To prove his innocence and prevent war amongst the gods, he embarks on a journey to find the lightning bolt along with his two friends: Annabeth Chase, a daughter of Athena, and Grover Underwood, a satyr.",
+              "authorBackground": "Together, they fight various mythical creatures and face challenges. Along the way, Percy learns about his powers and his destiny. The book is a fun experience that combines Greek mythology and the modern world. It serves as Percy Jackson's starting point for an adventure-filled journey. 8.5/10 would recommend."
             }
           }
         },
         {
           "book": {
-            "title": "James and the Giant Peach",
-            "author": "J.D. Salinger",
-            "coverImage": "https://m.media-amazon.com/images/I/81grRoKvEIL._AC_UF1000,1000_QL80_.jpg",
-            "publishDate": "July 16, 1951"
+            "title": "The Sea of Monsters",
+            "author": "Rick Riordan",
+            "coverImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/PercySeamonsters.gif/220px-PercySeamonsters.gif",
+            "publishDate": " (Percy Jackson and the Olympians #2) April 1, 2006"
           },
           "review": {
             "introduction": {
-              "overview": "Fabulous adaptation of Roald Dahl's classic book.",
-              "authorBackground": "J.D. Salinger, known for his reclusive nature, brings a unique perspective rooted in his own experiences."
-            },
-            "plotSummary": {
-              "synopsis": "The heart of this story is in James, with whom kids who are struggling to find independence and security within their families will identify. The insect characters are mostly loveable, and also learn lessons along the way. However, the insects also seem to come straight from central casting.",
-              "keyPoints": [
-                "Holden's quest for authenticity",
-                "Encounters with various characters",
-                "Themes of alienation and societal expectations"
-              ]
-            },
-            "characters": {
-              "profiles": [
-                {
-                  "name": "Holden Caulfield",
-                  "description": "The disillusioned protagonist struggling with the phoniness of the adult world."
-                }
-              ],
-              "development": "Characters evolve in response to Holden's journey, each contributing to the overarching themes."
-            },
-            "writingStyle": {
-              "style": "Salinger's writing is conversational, reflecting Holden's voice. He employs colloquial language and explores the use of symbolism.",
-              "literaryDevices": [
-                "Symbolism in the red hunting hat",
-                "Motifs of innocence and loss"
-              ]
-            },
-            "themes": {
-              "exploredThemes": [
-                "The loss of innocence",
-                "The search for authenticity",
-                "The phoniness of society"
-              ],
-              "symbolismAndMotifs": "The red hunting hat as a symbol of individuality and protection."
-            },
-            "setting": {
-              "timeAndPlace": "Set in the 1950s, primarily in New York City, the novel captures the post-war atmosphere and urban landscape.",
-              "atmosphereAndWorldBuilding": "Salinger creates a vivid world through Holden's observations, emphasizing the alienation in a bustling city."
-            },
-            "pacing": {
-              "narrativeFlow": "The narrative flows with Holden's stream of consciousness, capturing the erratic nature of his thoughts.",
-              "balance": "Balances introspective moments with dynamic encounters to maintain reader engagement."
-            },
-            "structure": {
-              "chapterOrganization": "Organized as Holden's recollections, with a fluid structure that mirrors his mental state.",
-              "narrativeStructure": "Incorporates flashbacks and a linear timeline, offering a multifaceted perspective."
-            },
-            "dialogue": {
-              "evaluation": "Dialogues feel authentic, showcasing characters' distinct voices and contributing to the overall atmosphere.",
-              "realismAndVoice": "The dialogues contribute to character development and reinforce the realism of the narrative."
-            },
-            "plotTwistsAndTurns": {
-              "unpredictability": "The story is unpredictable, with twists that challenge conventional expectations.",
-              "impact": "Plot twists contribute to character growth and the overall impact of the narrative."
-            },
-            "originality": {
-              "uniqueAspects": "Salinger's exploration of teenage angst and societal criticism adds a unique layer to the narrative.",
-              "freshPerspectives": "The novel offers fresh perspectives on identity, authenticity, and the challenges of adolescence."
-            },
-            "emotionalImpact": {
-              "connectionToCharacters": "Readers connect emotionally with Holden's journey, experiencing the highs and lows of adolescence.",
-              "emotionalResonance": "The novel resonates emotionally, leaving a lasting impact on readers."
-            },
-            "overallImpression": {
-              "personalOpinion": "An impactful and thought-provoking novel that resonates with readers of all ages.",
-              "starRating": 4.5,
-              "recommendation": "Highly recommended for those seeking a profound exploration of the human experience."
-            },
-            "comparisonToOtherWorks": {
-              "similarBooksOrAuthors": [
-                "The Bell Jar by Sylvia Plath",
-                "The Great Gatsby by F. Scott Fitzgerald"
-              ],
-              "contrastsAndComparisons": "While similar to other coming-of-age classics, The Catcher in the Rye stands out for its raw portrayal of teenage disillusionment."
-            },
-            "targetAudience": {
-              "whoMightEnjoy": "Ideal for readers interested in coming-of-age stories, existential themes, and societal critique.",
-              "suitableAgeGroupsOrInterests": "Recommended for young adults and older readers who appreciate introspective narratives."
-            },
-            "criticisms": {
-              "constructiveFeedback": "Some readers may find the narrative introspective nature challenging, and the open-ended conclusion may leave certain questions unanswered.",
-              "areasForImprovement": "A more explicit resolution to certain plot points could enhance reader satisfaction."
-            },
-            "favoriteQuotes": {
-              "noteworthyLines": [
-                "“Don't ever tell anybody anything. If you do, you start missing everybody.”",
-                "“I'm sick of just liking people. I wish to God I could meet somebody I could respect.”"
-              ],
-              "memorableQuotes": "The novel is filled with poignant quotes that capture the essence of Holden's perspective."
-            },
-            "conclusion": {
-              "summary": "The Catcher in the Rye is a timeless exploration of teenage angst, societal criticism, and the search for authenticity.",
-              "finalThoughts": "A must-read for those who appreciate profound narratives that leave a lasting impact."
+              "overview": "The story begins with Percy returning to Camp Half-Blood. He realizes that the camp is threatened due to the weakening of the magical protective barrier around it, keeping the monsters away. It is concluded that the only way to restore the magical barrier is to retrieve the Golden Fleece from the Sea of Monsters (also known as the Bermuda Triangle).",
+              "authorBackground": "Percy, Annabeth, and Percy's half brother Tyson, who is a Cyclops, embark on a journey to the Sea of Monsters. They face various challenges, including mythical creatures and their former campmate, Luke Castellan, who is also on a quest to retrieve the Fleece. Luke plots to use the Fleece to revive what could be the greatest threat to the world.",
+              "test": "Ultimately, Percy and his friends reach the island of the Cyclops, where the Golden Fleece is located, and with much difficulty, they successfully retrieve it. The narrative sets the stage for the continuing adventures of Percy Jackson in the sequel books. 8/10."
             }
           }
         },
         {
           "book": {
-            "title": "Zodiac Academy- The Awakening",
-            "author": "J.D. Salinger",
-            "coverImage": "https://m.media-amazon.com/images/I/51GtIobCxqL.jpg",
-            "publishDate": "July 16, 1951"
+            "title": "The Titans Curse",
+            "author": "Rick Riordan",
+            "coverImage": "https://online.fliphtml5.com/bsvuj/kbqk/files/large/1.jpg?1611480722",
+            "publishDate": " (Percy Jackson and the Olympians #3) May 1, 2007"
           },
           "review": {
             "introduction": {
-              "overview": " Curious. Headstrong. A twin. Heir to a throne I know nothing about. And it turns out, I'm Fae.",
-              "authorBackground": "J.D. Salinger, known for his reclusive nature, brings a unique perspective rooted in his own experiences."
-            },
-            "plotSummary": {
-              "synopsis": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repudiandae officiis suscipit, vero iusto corporis veritatis sapiente soluta pariatur nemo nesciunt quos nisi totam fuga temporibus architecto atque, reprehenderit quisquam exercitationem ea ullam error sit rem id debitis? Perferendis corporis dolore sequi dolor, voluptas aliquam provident. Iusto culpa veniam explicabo itaque dicta cumque similique. Placeat sunt distinctio reiciendis voluptates doloremque, pariatur iure, earum officiis quae molestiae a eius sequi consequuntur rerum minus assumenda similique velit mollitia! Illo vitae culpa vero. Quisquam, unde ratione. Autem nam distinctio eius provident incidunt quam eum ea corrupti veritatis sed vero quod maxime natus, eveniet ipsa.",
-              "keyPoints": [
-                "Holden's quest for authenticity",
-                "Encounters with various characters",
-                "Themes of alienation and societal expectations"
-              ]
-            },
-            "characters": {
-              "Holden Caulfield": 
-                {
-                  "description": "The disillusioned protagonist struggling with the phoniness of the adult world.",
-                  "development": "Characters evolve in response to Holden's journey, each contributing to the overarching themes."
-                }
-            },
-            "writingStyle": {
-              "style": "Salinger's writing is conversational, reflecting Holden's voice. He employs colloquial language and explores the use of symbolism.",
-              "literaryDevices": [
-                "Symbolism in the red hunting hat",
-                "Motifs of innocence and loss"
-              ]
-            },
-            "themes": {
-              "exploredThemes": [
-                "The loss of innocence",
-                "The search for authenticity",
-                "The phoniness of society"
-              ],
-              "symbolismAndMotifs": "The red hunting hat as a symbol of individuality and protection."
-            },
-            "setting": {
-              "timeAndPlace": "Set in the 1950s, primarily in New York City, the novel captures the post-war atmosphere and urban landscape.",
-              "atmosphereAndWorldBuilding": "Salinger creates a vivid world through Holden's observations, emphasizing the alienation in a bustling city."
-            },
-            "pacing": {
-              "narrativeFlow": "The narrative flows with Holden's stream of consciousness, capturing the erratic nature of his thoughts.",
-              "balance": "Balances introspective moments with dynamic encounters to maintain reader engagement."
-            },
-            "structure": {
-              "chapterOrganization": "Organized as Holden's recollections, with a fluid structure that mirrors his mental state.",
-              "narrativeStructure": "Incorporates flashbacks and a linear timeline, offering a multifaceted perspective."
-            },
-            "dialogue": {
-              "evaluation": "Dialogues feel authentic, showcasing characters' distinct voices and contributing to the overall atmosphere.",
-              "realismAndVoice": "The dialogues contribute to character development and reinforce the realism of the narrative."
-            },
-            "plotTwistsAndTurns": {
-              "unpredictability": "The story is unpredictable, with twists that challenge conventional expectations.",
-              "impact": "Plot twists contribute to character growth and the overall impact of the narrative."
-            },
-            "originality": {
-              "uniqueAspects": "Salinger's exploration of teenage angst and societal criticism adds a unique layer to the narrative.",
-              "freshPerspectives": "The novel offers fresh perspectives on identity, authenticity, and the challenges of adolescence."
-            },
-            "emotionalImpact": {
-              "connectionToCharacters": "Readers connect emotionally with Holden's journey, experiencing the highs and lows of adolescence.",
-              "emotionalResonance": "The novel resonates emotionally, leaving a lasting impact on readers."
-            },
-            "overallImpression": {
-              "personalOpinion": "An impactful and thought-provoking novel that resonates with readers of all ages.",
-              "starRating": 4.5,
-              "recommendation": "Highly recommended for those seeking a profound exploration of the human experience."
-            },
-            "comparisonToOtherWorks": {
-              "similarBooksOrAuthors": [
-                "The Bell Jar by Sylvia Plath",
-                "The Great Gatsby by F. Scott Fitzgerald"
-              ],
-              "contrastsAndComparisons": "While similar to other coming-of-age classics, The Catcher in the Rye stands out for its raw portrayal of teenage disillusionment."
-            },
-            "targetAudience": {
-              "whoMightEnjoy": "Ideal for readers interested in coming-of-age stories, existential themes, and societal critique.",
-              "suitableAgeGroupsOrInterests": "Recommended for young adults and older readers who appreciate introspective narratives."
-            },
-            "criticisms": {
-              "constructiveFeedback": "Some readers may find the narrative introspective nature challenging, and the open-ended conclusion may leave certain questions unanswered.",
-              "areasForImprovement": "A more explicit resolution to certain plot points could enhance reader satisfaction."
-            },
-            "favoriteQuotes": {
-              "noteworthyLines": [
-                "“Don't ever tell anybody anything. If you do, you start missing everybody.”",
-                "“I'm sick of just liking people. I wish to God I could meet somebody I could respect.”"
-              ],
-              "memorableQuotes": "The novel is filled with poignant quotes that capture the essence of Holden's perspective."
-            },
-            "conclusion": {
-              "summary": "The Catcher in the Rye is a timeless exploration of teenage angst, societal criticism, and the search for authenticity.",
-              "finalThoughts": "A must-read for those who appreciate profound narratives that leave a lasting impact."
+              "overview": "'The Titan's Curse' continues Percy Jackson's adventures as a demigod. It begins with Percy Jackson attending a school orientation trip to the Hoover Dam with Annabeth Chase and his mortal friend Rachel Elizabeth.",
+              "authorBackground": "The goddess Artemis, who was on a quest to prevent the possibility of the resurrection of Titan Lord Kronos, goes missing after an ambush by monsters. Percy, Annabeth, Thalia (who has been resurrected as the daughter of Zeus), and the Hunters of Artemis embark on a quest to save Artemis. The journey reveals secrets when they encounter the di Angelo siblings.",
+              "test": "The journey is filled with challenges, battling monsters, encountering Titan's minions, and the revelation of a prophecy that directs the fate of the children of the Big Three",
+              "others": "The climax of the story takes place at the mythical Mount Tamalpais, where the characters confront their fears and make sacrifices. It concludes with the revelation of the consequences of the prophecy and the ongoing threat from the Titans. 8/10."
+            }
+          }
+        },
+        {
+          "book": {
+            "title": "The Battle of the Labyrinth",
+            "author": "Rick Riordan",
+            "coverImage": "https://www.menakabooks.com/cdn/shop/products/10869_1200x1200.jpg?v=1600564265",
+            "publishDate": " (Percy Jackson and the Olympians #4) 6 May 2008"
+          },
+          "review": {
+            "introduction": {
+              "overview": "In the book 'The Battle of the Labyrinth,' Percy Jackson returns for another adventurous quest, this time exploring the mysterious labyrinth, an ever changing maze revealed to be a threat to both the mortal and demigod worlds. Percy Jackson and his friends must navigate through the twists and turns of the labyrinth, encountering many mythical creatures and traps.",
+              "authorBackground": "The story depicts the growing tensions between the Olympian gods and the Titan Lord Kronos, who wishes to rise again and overthrow the gods. Annabeth Chase, Percy's friend, takes on the central role as the group faces challenges within the labyrinth. Along the way, relationships are tested, and alliances are formed.",
+              "test": "The climax takes place in the heart of the labyrinth, where Percy's group confronts a powerful Titan army. The book concludes with the group returning to Camp Half-Blood, with the threat of Kronos casting a shadow over the world.",
+              "others": "8/10"
+            }
+          }
+        },
+        {
+          "book": {
+            "title": "Percy Jackson and the Last Olympian",
+            "author": "Rick Riordan",
+            "coverImage": "https://m.media-amazon.com/images/I/516fxaQLSHL._AC_UF1000,1000_QL80_.jpg",
+            "publishDate": " (Percy Jackson and the Olympians #5) May 5, 2009"
+          },
+          "review": {
+            "introduction": {
+              "overview": "The long-anticipated war between the Olympian gods and the forces of Kronos approaches Percy Jackson is yet to meet his greatest challenge as the Titan Lord Kronos has risen, and his army is on the verge of attacking Mount Olympus.",
+              "authorBackground": "Percy receives a prophecy that foretells his role in the conflict and the importance of a choice he must make. The story unfolds with the preparation for the battle.",
+              "test": "The fight is intense, with each character playing a crucial role, and alliances forming to withstand the powerful forces of Kronos,",
+              "test2": "Percy faces the challenge of confronting the Titan Lord Kronos himself. Here, Percy is required to make a decision upon which the fate of the world rests. The key moments of sacrifice and bravery showcase the significance of the prophecy",
+              "test3": "The aftermath of the battle brings about changes to the world of demigods and the gods' relationship with their children.",
+              "test4": "The series concludes with a sense of closure and the promise of a new future.",
+              "others": "9/10"
             }
           }
         }
+
       ]
       
     }
